@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="converterVersion" value="1" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../SpinalHDL" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/core" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/debugger" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/demo" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/idslpayload" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/idslplugin" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/lib" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/project" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/sim" />
+            <option value="$PROJECT_DIR$/../SpinalHDL/tester" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.6.2" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

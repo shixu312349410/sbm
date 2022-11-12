@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="SpinalHDL Debugger" target="1.8" />
+      <module name="SpinalHDL-all" target="1.8" />
+      <module name="SpinalHDL-core" target="1.8" />
+      <module name="SpinalHDL-demo" target="1.8" />
+      <module name="SpinalHDL-idsl-payload" target="1.8" />
+      <module name="SpinalHDL-idsl-plugin" target="1.8" />
+      <module name="SpinalHDL-lib" target="1.8" />
+      <module name="SpinalHDL-sim" target="1.8" />
+      <module name="SpinalHDL-tester" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

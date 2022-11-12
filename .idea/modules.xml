@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL Debugger.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL Debugger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-all.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-all-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-all-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-core.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-idsl-payload.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-idsl-payload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-idsl-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-idsl-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-sim.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-sim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpinalHDL-tester.iml" filepath="$PROJECT_DIR$/.idea/modules/SpinalHDL-tester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbm.iml" filepath="$PROJECT_DIR$/.idea/modules/sbm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbm-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sbm-build.iml" group="sbt-build-modules" />
+    </modules>
+  </component>
+</project>
